@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DavyGT
+- 👀 I’m interested in making games!
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on GameJams & Godot Projects
+- 📫 How to reach me: DavyGT500Warp@gmail.com
